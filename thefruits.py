@@ -1,5 +1,4 @@
 import streamlit as st
-
 # --- Nutritional data ---
 nutritional_data = {
 ...     "apple": {"minerals": {"Calcium": 6, "Potassium": 107, "Magnesium": 5}},
